@@ -1,7 +1,7 @@
 Exp 1.1.a :
 
 N_0 = 100
-N_b = 16
+N_b = 16 (each side has 16 collocation points, so total number is 32)
 N_t = 16
 N_x = 100
 N_obs = 17
