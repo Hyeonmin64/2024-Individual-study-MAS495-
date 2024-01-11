@@ -19,6 +19,8 @@ N = 40000  (iteration)
 
 Exp 1.1.b : 
 
-(It took n hour)
+It 99900: loss = 7.62746026e-07, loss_0 = 1.91584974e-07, loss_b = 1.80624689e-08, loss_r = 3.56225740e-07, loss_obs = 1.96872861e-07, parameter = 3.14168155e-01 
+
+(It took 1 hour 30 minutes)
 
 
