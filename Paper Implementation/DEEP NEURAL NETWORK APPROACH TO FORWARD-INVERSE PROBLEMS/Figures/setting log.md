@@ -17,5 +17,8 @@ optimizer = torch.optim.Adam(model.dnn.parameters(), lr = 1e-5)
 
 N = 40000  (iteration)
 
-Exp 1.1.b :
+Exp 1.1.b : 
+
+(It took n hour)
+
 
