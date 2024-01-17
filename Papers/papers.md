@@ -1,6 +1,3 @@
-
-[Individual Research]
-
 [Publications by Hwijae Son]
 
 ### 1. Deep Neural Network Approach to Forward-Inverse Problems
@@ -115,4 +112,19 @@ typo) TP equation IC, coefficients. 10/4, not 0.25
 - Optimization method: 1) Lagrangian 2) penalty method. Augmented Lagrangian method: 1) + 2)
 -
 -
+
+
+[Publication by A]
+
+
+
+
+
+[Publication by A]
+
+
+
+
+
+[Publication by A]
 
