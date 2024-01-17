@@ -12,7 +12,7 @@ typo) TP equation IC, coefficients. 10/4, not 0.25
 
 ### Enhanced Physics-Informed Neural Networks with Augmented Lagrangian Relaxation Method (AL-PINNs)
 
-<https://arxiv.org/abs/2205.01059>
+<https://www.sciencedirect.com/science/article/pii/S0925231223005477>
 
 - Optimization method: 1) Lagrangian 2) penalty method. Augmented Lagrangian method: 1) + 2)
 -
