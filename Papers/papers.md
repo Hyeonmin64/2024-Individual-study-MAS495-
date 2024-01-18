@@ -27,7 +27,7 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 <https://link.springer.com/article/10.1007/s10915-021-01621-w>
 
 - PINN + Inverse problem: (To approximate traveling wave solution with Neural Networks, wave speed with Inverse problem's parameter.)
--
+- Keller–Segel equation: our interested equation.
 -
 
 
@@ -76,13 +76,27 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 -
 
 
-[Publication by A]
+[Publication by Sungwooong Cho]
+
+ 
+### 1. The monotone traveling wave solution of a bistable three-species competition system via unconstrained neural networks
+
+<https://www.aimspress.com/aimspress-data/mbe/2023/4/PDF/mbe-20-04-309.pdf>
+
+- 
+-
+-
 
 
+### 2. HyperDeepONet: learning operator with complex target function space using the limited resources via hypernetwork
 
+<https://arxiv.org/abs/2312.15949>
 
+- 
+-
+-
 
-[Publication by A]
+[Publication by Hyung Ju Hwang]
 
 
 
