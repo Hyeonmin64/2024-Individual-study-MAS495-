@@ -26,7 +26,7 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 
 <https://link.springer.com/article/10.1007/s10915-021-01621-w>
 
-- 
+- PINN + Inverse problem: (To approximate traveling wave solution with Neural Networks, wave speed with Inverse problem's parameter.)
 -
 -
 
