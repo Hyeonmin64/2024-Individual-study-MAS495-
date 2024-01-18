@@ -1,4 +1,4 @@
-[Publications by Hwijae Son]
+[Publications by Hwi jae Son]
 
 ### 1. Deep Neural Network Approach to Forward-Inverse Problems
 
@@ -76,7 +76,7 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 -
 
 
-[Publication by Sungwooong Cho]
+[Publication by Sung wooong Cho]
 
  
 ### 1. The monotone traveling wave solution of a bistable three-species competition system via unconstrained neural networks
@@ -96,7 +96,7 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 -
 -
 
-[Publication by Hyung Ju Hwang]
+[Publication by Hyung ju Hwang]
 
 
 
