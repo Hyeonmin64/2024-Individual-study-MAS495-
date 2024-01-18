@@ -21,6 +21,7 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 - 
 -
 
+
 ### 3. Traveling Wave Solutions of Partial Differential Equations Via Neural Networks
 
 <https://link.springer.com/article/10.1007/s10915-021-01621-w>
@@ -28,6 +29,7 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 - 
 -
 -
+
 
 ### 4. Lagrangian dual framework for conservative neural network solutions of kinetic equations
 
@@ -37,6 +39,7 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 -
 -
 
+
 ### 5. Continuous probabilistic solution to the transient self-oscillation under stochastic forcing: a PINN approach
 
 <https://link.springer.com/article/10.1007/s12206-023-0707-z>
@@ -44,6 +47,7 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 - 
 -
 -
+
 
 ### 6. SOBOLEV TRAINING FOR PHYSICS INFORMED NEURAL NETWORKS
 
@@ -53,67 +57,21 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 -
 -
 
-### 2. Enhanced Physics-Informed Neural Networks with Augmented Lagrangian Relaxation Method (AL-PINNs)
 
-<https://www.sciencedirect.com/science/article/pii/S0925231223005477>
+### 7. The deep minimizing movement scheme
 
-- Optimization method: 1) Lagrangian 2) penalty method. Augmented Lagrangian method: 1) + 2)
+<https://www.sciencedirect.com/science/article/pii/S0021999123006137>
+
+- 
 -
 -
 
-### 2. Enhanced Physics-Informed Neural Networks with Augmented Lagrangian Relaxation Method (AL-PINNs)
 
-<https://www.sciencedirect.com/science/article/pii/S0925231223005477>
+### 8. Physics-Informed Neural Networks for Microprocessor Thermal Management Model
 
-- Optimization method: 1) Lagrangian 2) penalty method. Augmented Lagrangian method: 1) + 2)
--
--
+<https://ieeexplore.ieee.org/abstract/document/10305161>
 
-### 2. Enhanced Physics-Informed Neural Networks with Augmented Lagrangian Relaxation Method (AL-PINNs)
-
-<https://www.sciencedirect.com/science/article/pii/S0925231223005477>
-
-- Optimization method: 1) Lagrangian 2) penalty method. Augmented Lagrangian method: 1) + 2)
--
--
-
-### 2. Enhanced Physics-Informed Neural Networks with Augmented Lagrangian Relaxation Method (AL-PINNs)
-
-<https://www.sciencedirect.com/science/article/pii/S0925231223005477>
-
-- Optimization method: 1) Lagrangian 2) penalty method. Augmented Lagrangian method: 1) + 2)
--
--
-
-### 2. Enhanced Physics-Informed Neural Networks with Augmented Lagrangian Relaxation Method (AL-PINNs)
-
-<https://www.sciencedirect.com/science/article/pii/S0925231223005477>
-
-- Optimization method: 1) Lagrangian 2) penalty method. Augmented Lagrangian method: 1) + 2)
--
--
-
-### 2. Enhanced Physics-Informed Neural Networks with Augmented Lagrangian Relaxation Method (AL-PINNs)
-
-<https://www.sciencedirect.com/science/article/pii/S0925231223005477>
-
-- Optimization method: 1) Lagrangian 2) penalty method. Augmented Lagrangian method: 1) + 2)
--
--
-
-### 2. Enhanced Physics-Informed Neural Networks with Augmented Lagrangian Relaxation Method (AL-PINNs)
-
-<https://www.sciencedirect.com/science/article/pii/S0925231223005477>
-
-- Optimization method: 1) Lagrangian 2) penalty method. Augmented Lagrangian method: 1) + 2)
--
--
-
-### 2. Enhanced Physics-Informed Neural Networks with Augmented Lagrangian Relaxation Method (AL-PINNs)
-
-<https://www.sciencedirect.com/science/article/pii/S0925231223005477>
-
-- Optimization method: 1) Lagrangian 2) penalty method. Augmented Lagrangian method: 1) + 2)
+- 
 -
 -
 
