@@ -53,8 +53,8 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 
 <https://arxiv.org/abs/2101.08932>
 
-- 
--
+- Sobolev-training: Use the 'sobolev-norm' instead.
+- Although it is not fully supervised, 
 -
 
 
