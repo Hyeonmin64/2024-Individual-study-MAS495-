@@ -61,6 +61,10 @@ activation = sin()
 
 N = 40,000 (iteration)
 
+It 39900: loss = 4.19058961e-05, loss_0 = 2.00872137e-08, loss_r = 4.00767785e-05, loss_obs = 1.80902998e-06
+It 39900: alpha = 9.99908447e-01, beta = 4.00222033e-01, delta = 1.00073867e-01, gamma = 3.99845362e-01
+
+
 
 
 
