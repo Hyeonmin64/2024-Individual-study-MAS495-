@@ -43,30 +43,24 @@ It 99900: loss = 7.62746026e-07, loss_0 = 1.91584974e-07, loss_b = 1.80624689e-0
 (It took 1 hour 30 minutes)
 
 =========
-
 Exp 1.2 : 
 
-N_0 = 200
-N_b = 40
-N_t = 40
-N_x = 100
-(N_res = 40*99 = 3960)
+N_0 = 4000
+N_t = 20000
+N_obs = 40  # 40
 
+parameter_list = [0.1, 0.6, 0.3, 0.9]
+(initialization)
 
-N = 40
-M = 25
-(N_obs = 40*24 = 960)
+optimizer = torch.optim.Adam(model.dnn.parameters(), lr = 1e-4)
 
-layers = [2, 20, 20, 20, 20, 20, 20, 20, 20, 1]
-activation = nn.Tanh()
+scheduler = torch.optim.lr_scheduler.LambdaLR(optimizer=optimizer, lr_lambda=lambda epoch: 0.999 ** epoch, last_epoch=-1, verbose=False)
 
-optimizer = torch.optim.Adam(model.dnn.parameters(), lr = 1e-5)
-(no scheduler)
+layers = [1, 64, 64, 2]
+activation = sin()
 
-N = 100,000 (iteration)
-It 99900: loss = 7.62746026e-07, loss_0 = 1.91584974e-07, loss_b = 1.80624689e-08, loss_r = 3.56225740e-07, loss_obs = 1.96872861e-07, parameter = 3.14168155e-01 
+N = 40,000 (iteration)
 
-(It took 1 hour 30 minutes)
 
 
 
