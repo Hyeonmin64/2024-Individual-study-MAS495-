@@ -5,7 +5,7 @@
 <https://arxiv.org/pdf/2205.13671.pdf>
 
 - 
--
+- Fourier type and Galerkin type also exist; similar formula to original transformer.
 -
 
 
