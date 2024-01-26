@@ -7,9 +7,8 @@
 <https://www.youtube.com/watch?v=9fAzPaDoKfQ>
 
 - 
-- Fourier type and Galerkin type also exist; similar formula to original transformer.
--
-
+- It is the framework about "operator learning". It uses cross attention to look at both domain and range
+- 
 
 ### 2. A physics-informed diffusion model for high-fidelity flow field reconstruction
 
