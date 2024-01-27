@@ -92,8 +92,8 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 
 <https://arxiv.org/abs/2312.15949>
 
-- HyperDeepONet relieves the complexity of DeepONet(compx frm discont, nonsmooth)
--
+- HyperDeepONet relieves the complexity of DeepONet(compx frm discont, nonsmooth) using hypernetwork.
+- It facilitates learning an operator with a small number of parameters in the target network
 -
 - (Non-linear Banach to Banach)
 
