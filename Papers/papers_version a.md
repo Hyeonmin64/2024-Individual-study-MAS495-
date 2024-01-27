@@ -94,7 +94,7 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 
 - HyperDeepONet relieves the complexity of DeepONet(compx frm discont, nonsmooth) using hypernetwork.
 - It facilitates learning an operator with a small number of parameters in the target network
--
+- It replaces branch net with the hypernetwork.
 - (Non-linear Banach to Banach) (At the page 4, DeepONet framework is explained well)
 
 [Publication by Hyung ju Hwang]
