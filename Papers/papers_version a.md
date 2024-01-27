@@ -92,7 +92,7 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 
 <https://arxiv.org/abs/2312.15949>
 
-- 
+- HyperDeepONet relieves the complexity of DeepONet(compx frm discont, nonsmooth)
 -
 -
 
