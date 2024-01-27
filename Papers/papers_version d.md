@@ -1,5 +1,16 @@
 Compilation:
 
+### FourCastNet: Accelerating Global High-Resolution Weather Forecasting Using Adaptive Fourier Neural Operators
+
+<https://dl.acm.org/doi/abs/10.1145/3592979.3593412?trk=public_post_comment-text>
+
+-
+-
+-
+
+
+
+
 https://arxiv.org/pdf/2211.05567.pdf
 
 https://arxiv.org/pdf/2304.07993.pdf
