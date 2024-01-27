@@ -95,6 +95,7 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 - HyperDeepONet relieves the complexity of DeepONet(compx frm discont, nonsmooth)
 -
 -
+- (Non-linear Banach to Banach)
 
 [Publication by Hyung ju Hwang]
 
