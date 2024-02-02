@@ -97,12 +97,4 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 - It replaces branch net with the hypernetwork.
 - Therefore, the main idea is to use the hypernetwork, which takes an input function u and produces the weights of the target network
 - (Non-linear Banach to Banach) (At the page 4, DeepONet framework is explained well)
-
-[Publication by Hyung ju Hwang]
-
-
-
-
-
-[Publication by A]
-
+- 
