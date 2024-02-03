@@ -83,7 +83,7 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 
 <https://www.aimspress.com/aimspress-data/mbe/2023/4/PDF/mbe-20-04-309.pdf>
 
-- 
+- With competitive model, travelin wave equation has an unique solution.
 -
 -
 
