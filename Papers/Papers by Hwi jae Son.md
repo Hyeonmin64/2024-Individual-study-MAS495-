@@ -100,3 +100,10 @@ descent of a target functional in the space of probability measures
 - Therefore, the main idea is to use the hypernetwork, which takes an input function u and produces the weights of the target network
 - (Non-linear Banach to Banach) (At the page 4, DeepONet framework is explained well)
 - 
+
+
+
+[Notes]
+
+- Gradient flow: On (M, g), u: (0, inf) -> M and F: M -> R satisfies du/dt = -grad_M(F(u(t))).
+For example, Heat equation is the gradient flow of dirichlet energy.
