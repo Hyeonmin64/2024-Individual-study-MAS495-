@@ -76,7 +76,7 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 -
 
 
-[Publication by Sung wooong Cho]
+[Publication by Sung woong Cho]
 
  
 ### 1. The monotone traveling wave solution of a bistable three-species competition system via unconstrained neural networks
