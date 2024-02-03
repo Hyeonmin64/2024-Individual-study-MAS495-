@@ -19,6 +19,7 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 
 - Optimization method: 1) Lagrangian 2) penalty method.
 - Augmented Lagrangian method: Combining two and define the min-max problem
+- It is helpful to follow the new type of convergence.
 
 
 ### 3. Traveling Wave Solutions of Partial Differential Equations Via Neural Networks
