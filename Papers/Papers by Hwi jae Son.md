@@ -17,9 +17,8 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 
 <https://www.sciencedirect.com/science/article/pii/S0925231223005477>
 
-- Optimization method: 1) Lagrangian 2) penalty method. Augmented Lagrangian method: 1) + 2)
-- 
--
+- Optimization method: 1) Lagrangian 2) penalty method.
+- Augmented Lagrangian method: Combining two and define the min-max problem
 
 
 ### 3. Traveling Wave Solutions of Partial Differential Equations Via Neural Networks
