@@ -62,7 +62,9 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 
 <https://www.sciencedirect.com/science/article/pii/S0021999123006137>
 
-- 
+- Recently, optimization of a functional defined on a space of probability measures equipped with 𝐿2-Wasserstein
+distance arises as an important problem. Therefore, Wasserstein gradient flow plays an important role in studying the steepest
+descent of a target functional in the space of probability measures
 -
 -
 
