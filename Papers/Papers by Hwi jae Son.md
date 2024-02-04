@@ -104,5 +104,4 @@ descent of a target functional in the space of probability measures
 
 [Notes]
 
-- Gradient flow: On (M, g), u: (0, inf) -> M and F: M -> R satisfies du/dt = -grad_M(F(u(t))).
-For example, Heat equation is the gradient flow of dirichlet energy.
+-
