@@ -7,6 +7,4 @@ Individual study repository conducted with professor mikyoung Lim
 
 2. Paper implementation(goal: 4 papers)
 
-3. Edit PINN docs_shared, notify it to advisors through mail.
-
 4. Paper introduction => reference papers to follow "history, pros, cons, ..."
