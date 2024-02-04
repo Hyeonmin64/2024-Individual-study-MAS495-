@@ -63,7 +63,9 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 - Recently, optimization of a functional defined on a space of probability measures equipped with 𝐿2-Wasserstein
 distance arises as an important problem. Therefore, Wasserstein gradient flow plays an important role in studying the steepest
 descent of a target functional in the space of probability measures
--
+- Jordan, Kinderlehrer, and Otto observed that the FokkerPlanck equation can be understood as a steepest descent for the free energy with respect to the Wasserstein distance and utilized
+the minimizing movement scheme for Wasserstein spaces, and that is why the minimizing movement scheme is now widely known
+as the JKO-scheme (Jordan, Kinderlehrer and Otto).
 -
 
 
