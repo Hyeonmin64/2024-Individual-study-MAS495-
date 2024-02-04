@@ -37,7 +37,6 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 
 - kinetic Fokker–Planck equation: Diffusion behavior of probability density funciton(Total loss is defined as PINN approach.)
 - Also dealing with Homogeneous Boltzmann equation. Both problems utilize an AL-PINN scheme.
--
 
 
 ### 5. Continuous probabilistic solution to the transient self-oscillation under stochastic forcing: a PINN approach
