@@ -71,7 +71,8 @@ descent of a target functional in the space of probability measures
 
 <https://ieeexplore.ieee.org/abstract/document/10305161>
 
-- 
+- Application paper-" we employ Physics-informed neural networks (PINNs) to
+develop a simulation for predicting the heat distribution of a microprocessor with various structures"
 -
 -
 
