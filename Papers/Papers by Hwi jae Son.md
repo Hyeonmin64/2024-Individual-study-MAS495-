@@ -44,7 +44,7 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 <https://link.springer.com/article/10.1007/s12206-023-0707-z>
 
 - Investigate the transient dynamics of self-oscillator using PINN approach.
-- Try paper implementation?
+- Try paper implementation
 
 
 ### 6. SOBOLEV TRAINING FOR PHYSICS INFORMED NEURAL NETWORKS
