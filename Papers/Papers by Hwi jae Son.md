@@ -35,8 +35,8 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 
 <https://arxiv.org/abs/2106.12147>
 
-- kinetic Fokker–Planck equation: Diffusion behavior of probability density funciton
--
+- kinetic Fokker–Planck equation: Diffusion behavior of probability density funciton(Total loss is defined as PINN approach.)
+- 
 -
 
 
