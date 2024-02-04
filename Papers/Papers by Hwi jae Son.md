@@ -28,7 +28,7 @@ I followed figure's guide, (1, 0.4, 0.1, 0.4)
 
 - PINN + Inverse problem: (To approximate traveling wave solution with Neural Networks, wave speed with Inverse problem's parameter.)
 - Keller–Segel equation: our interested equation.
-- Anjats
+- Ansatz for wave equation. First layer: [t, x]: input to z = x - s*t; where s is a parameter.
 
 
 ### 4. Lagrangian dual framework for conservative neural network solutions of kinetic equations
