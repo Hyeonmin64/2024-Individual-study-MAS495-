@@ -106,4 +106,4 @@ develop a simulation for predicting the heat distribution of a microprocessor wi
 
 [Notes]
 
--
+- PINN is sensitive to hyperparameter. loss balancing(weights) is important
