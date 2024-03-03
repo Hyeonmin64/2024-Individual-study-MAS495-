@@ -102,8 +102,3 @@ develop a simulation for predicting the heat distribution of a microprocessor wi
 - (Non-linear Banach to Banach) (At the page 4, DeepONet framework is explained well)
 - 
 
-
-
-[Notes]
-
-- PINN is sensitive to hyperparameter. loss balancing(weights) is important
