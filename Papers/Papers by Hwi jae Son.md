@@ -100,5 +100,8 @@ develop a simulation for predicting the heat distribution of a microprocessor wi
 - It replaces branch net with the hypernetwork.
 - Therefore, the main idea is to use the hypernetwork, which takes an input function u and produces the weights of the target network
 - (Non-linear Banach to Banach) (At the page 4, DeepONet framework is explained well)
-- 
+
+
+- Complexity is defined for Deep O Net problem.
+- About complexity.
 
