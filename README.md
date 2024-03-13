@@ -4,6 +4,13 @@ Individual study repository conducted with professor mikyoung Lim
 봄학기 마치면 이거 메인 레포에 옮겨두기.
 
 ~ 03 27
+무얼 해야 하나?
+
+Uncertainty quantification for noisy inputs-outputs in physics-informed neural networks and neural operators
+Z Zou, X Meng, GE Karniadakis - arXiv preprint arXiv:2311.11262, 2023 - arxiv.org
+<https://arxiv.org/pdf/2311.11262.pdf>
+
+
 
 
 (notes)
