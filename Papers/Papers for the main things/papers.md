@@ -1,11 +1,10 @@
 
-Neural Inverse Operators for Solving PDE
-Inverse Problems
+### Neural Inverse Operators for Solving PDE Inverse Problems
 
-https://www.sam.math.ethz.ch/sam_reports/reports_final/reports2023/2023-10.pdf
+<https://www.sam.math.ethz.ch/sam_reports/reports_final/reports2023/2023-10.pdf>
 
 
-Solving Inverse Problems with Deep Learning
+### Solving Inverse Problems with Deep Learning
 <https://web.stanford.edu/~lexing/ICM.pdf>
 
 
