@@ -22,6 +22,7 @@ https://www.sam.math.ethz.ch/sam_reports/reports_final/reports2023/2023-10.pdf
 https://web.stanford.edu/~lexing/ICM.pdf
 
 17. Yuwei Fan and Lexing Ying. Solving Inverse Wave Scattering with Deep Learning. Annals of Mathematical Sciences and Applications. [PDF]
+https://web.stanford.edu/~lexing/scattering.pdf
 
 Deep neural networks for inverse problems with pseudodifferential operators: An application to limited-angle tomography ∗
 https://arxiv.org/pdf/2006.01620.pdf 
