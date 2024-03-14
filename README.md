@@ -10,7 +10,7 @@ Uncertainty quantification for noisy inputs-outputs in physics-informed neural n
 Z Zou, X Meng, GE Karniadakis - arXiv preprint arXiv:2311.11262, 2023 - arxiv.org
 <https://arxiv.org/pdf/2311.11262.pdf>
 
-<= 읽고 오기
+<= 읽고 오기 (우선 이것만 읽고오면 mandatory task는 끝.)
 
 
 
