@@ -32,6 +32,8 @@ https://iopscience.iop.org/article/10.1088/1361-6420/ace9d4/pdf
 
 UQ 논문 구현???
 
+이전 논문구현들 정리
+
 
 (notes)
 Uncertainty Quantification: UQ 라고 하고
