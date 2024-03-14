@@ -30,6 +30,12 @@ https://arxiv.org/pdf/2006.01620.pdf
 https://iopscience.iop.org/article/10.1088/1361-6420/ace9d4/pdf 
 
 
+....
+
+
+Uncertainty Quantification 검색해서 공부
+
+
 UQ 논문 구현???
 
 이전 논문구현들 정리
