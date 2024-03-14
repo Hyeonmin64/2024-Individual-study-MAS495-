@@ -27,7 +27,7 @@ https://web.stanford.edu/~lexing/scattering.pdf
 Deep neural networks for inverse problems with pseudodifferential operators: An application to limited-angle tomography ∗
 https://arxiv.org/pdf/2006.01620.pdf 
 
-
+https://iopscience.iop.org/article/10.1088/1361-6420/ace9d4/pdf 
 
 (notes)
 Uncertainty Quantification: UQ 라고 하고
