@@ -12,7 +12,19 @@ Z Zou, X Meng, GE Karniadakis - arXiv preprint arXiv:2311.11262, 2023 - arxiv.or
 
 <= 읽고 오기 (우선 이것만 읽고오면 mandatory task는 끝.)
 
+(me)
 
+
+15. Neural Inverse Operators for Solving PDE Inverse Problems 
+https://www.sam.math.ethz.ch/sam_reports/reports_final/reports2023/2023-10.pdf 
+
+16. Solving Inverse Problems with Deep Learning
+https://web.stanford.edu/~lexing/ICM.pdf
+
+17. Yuwei Fan and Lexing Ying. Solving Inverse Wave Scattering with Deep Learning. Annals of Mathematical Sciences and Applications. [PDF]
+
+Deep neural networks for inverse problems with pseudodifferential operators: An application to limited-angle tomography ∗
+https://arxiv.org/pdf/2006.01620.pdf 
 
 
 
