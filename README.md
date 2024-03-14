@@ -29,6 +29,10 @@ https://arxiv.org/pdf/2006.01620.pdf
 
 https://iopscience.iop.org/article/10.1088/1361-6420/ace9d4/pdf 
 
+
+UQ 논문 구현???
+
+
 (notes)
 Uncertainty Quantification: UQ 라고 하고
 UQ를 한다. = 이거는 완성된 무언가 위에 UQ를 하는 작업으로 논문을 쓸 수 있는 것(?)
