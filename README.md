@@ -3,48 +3,51 @@ Individual study repository conducted with professor mikyoung Lim
 
 봄학기 마치면 이거 메인 레포에 옮겨두기.
 
-~ 03 27
+~ 04 03
 무얼 해야 하나?
 
-Uncertainty quantification for noisy inputs-outputs in physics-informed neural networks and neural operators
-Z Zou, X Meng, GE Karniadakis - arXiv preprint arXiv:2311.11262, 2023 - arxiv.org
-<https://arxiv.org/pdf/2311.11262.pdf>
-
-<= 읽고 오기 (우선 이것만 읽고오면 mandatory task는 끝.)
-
-(me)
 
 
-15. Neural Inverse Operators for Solving PDE Inverse Problems 
-https://www.sam.math.ethz.ch/sam_reports/reports_final/reports2023/2023-10.pdf 
-
-16. Solving Inverse Problems with Deep Learning
-https://web.stanford.edu/~lexing/ICM.pdf
-
-17. Yuwei Fan and Lexing Ying. Solving Inverse Wave Scattering with Deep Learning. Annals of Mathematical Sciences and Applications. [PDF]
-https://web.stanford.edu/~lexing/scattering.pdf
-
-Deep neural networks for inverse problems with pseudodifferential operators: An application to limited-angle tomography ∗
-https://arxiv.org/pdf/2006.01620.pdf 
-
-https://iopscience.iop.org/article/10.1088/1361-6420/ace9d4/pdf 
 
 
-....
+https://arxiv.org/pdf/2311.11262.pdf
+
+https://arxiv.org/pdf/2003.06097.pdf
+
+<< 메인 논문 2개
+
+https://ntrs.nasa.gov/api/citations/20230005909/downloads/DATAWorks_UQ_mini-tutorial_2023%20v2.pdf
+
+http://dmqa.korea.ac.kr/activity/seminar/350
+
+http://dmqa.korea.ac.kr/activity/seminar/252
+
+https://www.gatsby.ucl.ac.uk/~balaji/DL4Sci-Uncertainty-in-Deep-Learning-overview.pdf
 
 
-Uncertainty Quantification 검색해서 공부
 
+And 개별연구 관련
 
-UQ 논문 구현???
+https://github.com/Crunch-UQ4MI/neuraluq
 
-이전 논문구현들 정리
+https://arxiv.org/pdf/2007.06823.pdf
 
+ralph c smith uncertainty quantification
 
-(notes)
-Uncertainty Quantification: UQ 라고 하고
-UQ를 한다. = 이거는 완성된 무언가 위에 UQ를 하는 작업으로 논문을 쓸 수 있는 것(?)
-(UQ는 논문1 쓰고
-논문1에 대한 UQ 해서 논문2 쓰고 이런게 가능하다)
+Kinetics informed Neural Network
+
+https://scholar.google.com.mx/citations?hl=sr&user=qdPjGE8AAAAJ&view_op=list_works&sortby=pubdate
+
+bayesian non-linear statistical inverse problems
+
+https://onlinelibrary.wiley.com/doi/full/10.1111/sapm.12656
+
+https://arxiv.org/pdf/2306.00333.pdf
+
+https://www.sciencedirect.com/science/article/pii/S0021999122002352?casa_token=iciQX02mDPYAAAAA:eiLjGTVVJYZ6JjUTvhEOQMwmXCr-eKd8vwQEYMxF8KzBvmr7pE8a2Du8Fs1G1NXKA4k_LIO3FLE
+
+https://www.sciencedirect.com/science/article/abs/pii/S0098135423004179
+
+https://scholar.google.com.mx/citations?hl=sr&user=qdPjGE8AAAAJ&view_op=list_works&sortby=pubdate
 
 
